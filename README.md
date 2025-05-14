@@ -1,4 +1,5 @@
 # flutter_google_places_nocors
+Cloned from google_places_flutter package
 WIP
 # Add dependency into pubspec.yml
 TBD not yet published
