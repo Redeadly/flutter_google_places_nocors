@@ -1,7 +1,7 @@
 name: flutter_google_places_nocors
 description: Custom Google places autocomplete widget for Android and iOS both. Use https://pub.dev/packages/flutter_google_places_nocors [NOT YET]
 version: 1.0.0
-homepage: https://github.com/Shrutimahajan/Google-AutoComplete-TextField-Flutter
+homepage: https://github.com/Redeadly/flutter_google_places_nocors
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
